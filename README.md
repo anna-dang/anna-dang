@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I am currently a bootcamp student (Aug 2020 - Jan 2021), studying data science through Flatiron School. Open to all opportunities to connect, learn and grow!
 
 I am based in Detroit, Michigan.
