@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Anna 🤘🏼</h1>
 <h3 align="center">Data Science student at Flatiron.</h3>
 
-Looking for opportunities to connect, learn, and grow!
+Looking for opportunities to connect, learn, and grow! View my bootcamp projects mod01-mod5 right here on GitHub.
 
 - 🔭 I’m currently working on [my boot camp capstone project.](https://github.com/anna-dang/mod05-capstone)
 
