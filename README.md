@@ -1,11 +1,11 @@
 <h1 align="center">Hello! I'm Anna 🤘🏼</h1>
 <h3 align="center">Data Science student at Flatiron.</h3>
 
-Looking for opportunities to connect, learn, and grow! View my bootcamp projects mod01-mod5 right here on GitHub.
+Looking for opportunities to connect, learn, and grow! View my bootcamp projects journey (mod01-mod5 projects) here on GitHub. Mod01 was my first ever exposure to coding - up to Mod05, where I present a self-led project from data collection through model deployment. 
 
 - 🔭 I’m currently working on [my boot camp capstone project.](https://github.com/anna-dang/mod05-capstone)
 
-- 🌱 I’m currently learning **natural language processing** and **how to play the guitar.**
+- 🌱 I’m currently learning **NLP** and **how to utilize LinkedIn.**
 
 - 👯 I’m looking to collaborate on **conservation and environmental projects.**
 
