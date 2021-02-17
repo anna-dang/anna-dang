@@ -1,22 +1,24 @@
-<h1 align="center">Hello! I'm Anna 🤘🏼</h1>
-<h3 align="center">Data Science student at Flatiron.</h3>
+<h1>Hello! I'm Anna 🤘🏼</h1>
+<h3>Data Scientist</h3>
 
-Looking for opportunities to connect, learn, and grow! View my bootcamp journey (mod01-mod5 projects) here on GitHub. Mod01 was my first ever exposure to coding - up to Mod05, where I present a full self-led DS project: from data collection through model deployment. 
+February 2021 graduate of Flatiron Data Science Bootcamp. Looking for opportunities to connect, learn, and grow! View my bootcamp journey (mod01-mod5 projects) here on GitHub. Mod01 was my first ever exposure to coding - up to Mod05, where I present a full self-led DS project: from data collection through model deployment. 
 
-- 🔭 I’m currently working on [my boot camp capstone project.](https://github.com/anna-dang/mod05-capstone)
+🔭 Why data science?
 
-- 🌱 I’m currently learning **Data Analysis: Statistical Modeling and Computation in Applications** through MIT and edX.
-
-- 🤝 I’m looking for help with **finding my first tech job!**
-
-- 📝 I regularly write articles on [Medium](https://annadangela.medium.com/).
-
-- 💬 Ask me about **playing in the mud (ceramics!)**
-
-- 📫 How to reach me: **annaadangela@gmail.com**
+   As a former scientist of the test tube variety and an artist, I found a harmonious blend of analytics and creativity in data driven projects.
 
 
-<h3 align="left">Connect with me:</h3>
+📚 I’m currently working on: 
+
+  Collecting data for an A/B Test project.
+
+🌱 I’m currently learning: refreshing on statistics!
+
+  - **Data Analysis: Statistical Modeling and Computation in Applications** course as part of MIT MicroMasters on edX.
+  - **WWCode Data Science: Statistics Workshop Series**, 8 weeks
+  - Reading *Naked Statistics* by Charles Wheelen
+
+<h3>Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_dangelaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_dangelaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anna-dangela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anna-dangela" height="30" width="40" /></a>
