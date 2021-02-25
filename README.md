@@ -5,14 +5,10 @@ February 2021 graduate of Flatiron Data Science Bootcamp. Looking for opportunit
 
 🔭 Why data science?
 
-   As a former scientist of the test tube variety and an artist, I found a harmonious blend of analytics and creativity in data driven projects.
+   As a former scientist of the test-tube variety and an artist, I found a harmonious blend of analytics and creativity in data driven projects.
 
 
-📚 I’m currently working on: 
-
-  Collecting data for an A/B Test project.
-
-🌱 I’m currently learning: refreshing on statistics!
+📚 I’m currently working on: refreshing on statistics!
 
   - **Data Analysis: Statistical Modeling and Computation in Applications** course as part of MIT MicroMasters on edX.
   - **WWCode Data Science: Statistics Workshop Series**, 8 weeks
