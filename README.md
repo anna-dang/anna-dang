@@ -7,13 +7,6 @@ February 2021 graduate of Flatiron Data Science Bootcamp. Looking for opportunit
 
    As a former scientist of the test-tube variety and an artist, I found a harmonious blend of analytics and creativity in data driven projects.
 
-
-📚 I’m currently working on: refreshing on statistics!
-
-  - **Data Analysis: Statistical Modeling and Computation in Applications** course as part of MIT MicroMasters on edX.
-  - **WWCode Data Science: Statistics Workshop Series**, 8 weeks
-  - Reading *Naked Statistics* by Charles Wheelen
-
 <h3>Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_dangelaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_dangelaa" height="30" width="40" /></a>
