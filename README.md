@@ -1,11 +1,7 @@
-<h1>Hello! I'm Anna 🤘🏼</h1>
+<h3>Hello! I'm Anna 🤘🏼</h3>
 <h3>Data Scientist</h3>
 
 February 2021 graduate of Flatiron Data Science Bootcamp. Looking for opportunities to connect, learn, and grow! View my bootcamp journey (mod01-mod5 projects) here on GitHub. Mod01 was my first ever exposure to coding - up to Mod05, where I present a full self-led DS project: from data collection through model deployment. 
-
-🔭 Why data science?
-
-   As a former scientist of the test-tube variety and an artist, I found a harmonious blend of analytics and creativity in data driven projects.
 
 <h3>Connect with me:</h3>
 <p align="left">
